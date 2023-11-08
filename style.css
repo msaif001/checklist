@@ -27,3 +27,9 @@ body{
 #plusButton{
     width: 10%;
 }
+
+#listItem{
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+}

@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:black;
+}
+.task{
+    background-color:gray;
+    width: 40vw;
+    height:50vh;
+    margin: auto;
+    margin-top:20vh;
+}
+
+.task1{
+    height: 9vh;
+    width: 100%;
+    text-align: left;
+    margin: auto;
+    display: flex;
+}
+
+#textInput{
+    width: 90%;
+    font-size:1.1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#plusButton{
+    width: 10%;
+}
